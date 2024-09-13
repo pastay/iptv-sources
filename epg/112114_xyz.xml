@@ -29772,6 +29772,9 @@
 	<programme channel="咪咕综合体育" start="20240913120000 +0800" stop="20240913121000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240913121000 +0800" stop="20240913135000 +0800">
+		<title lang="zh">足球世界-中国足协杯 1/4决赛 上海申花-北京国安</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -71148,6 +71151,9 @@
 	<programme channel="黑莓动画" start="20240913113800 +0800" stop="20240913120400 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240913120400 +0800" stop="20240913123900 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71616,6 +71622,9 @@
 	<programme channel="newtv超级综艺" start="20240913112300 +0800" stop="20240913120000 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240913121500 +0800" stop="20240913131500 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71666,6 +71675,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240913101700 +0800" stop="20240913120500 +0800">
 		<title lang="zh">百家拳之雄鹰</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240913120500 +0800" stop="20240913132200 +0800">
+		<title lang="zh">电影《记忆迷宫》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71757,6 +71769,9 @@
 	<programme channel="newtv精品大剧" start="20240913112600 +0800" stop="20240913121500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240913121500 +0800" stop="20240913125800 +0800">
+		<title lang="zh">36_蝶影</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71814,6 +71829,9 @@
 	<programme channel="newtv精品纪录" start="20240913112300 +0800" stop="20240913121100 +0800">
 		<title lang="zh">第4集：杂碎逆袭史</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240913121100 +0800" stop="20240913130000 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71861,6 +71879,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240913112600 +0800" stop="20240913121500 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240913121500 +0800" stop="20240913125700 +0800">
+		<title lang="zh">09_大舜</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -72365,6 +72386,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240913112800 +0800" stop="20240913120700 +0800">
 		<title lang="zh">Baclayon巴康洋聚合钛凝胶缓压枕-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240913120700 +0800" stop="20240913134000 +0800">
+		<title lang="zh">侠捕之夺命红莲</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
