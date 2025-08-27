@@ -41,7 +41,7 @@
 [BD]广东珠江,https://stream1.freetv.fun/7f7f3d093404d862c4a47c81731ae346d9ad177ccd8c91326ec459db90b8a64a.ctv
 [BD]广东经济科教,https://stream1.freetv.fun/195a90c7fd53ffd35bcd310057c96c96f0ee8b0cdcae125e5bfab78f1d28af6b.ctv
 [BD]广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.m3u8
-[HD]广西卫视_*r,https://stream1.freetv.fun/b7afe7ffcb446ae6ec2920b61777f68e9d6580dd22baea65d94ff2ecfcf509c3.ctv
+[HD]广西卫视_*r,https://stream1.freetv.fun/35aef665adca1bd8bc00f219c88a3ce63e6b66a68c2a68d5802abe83cf9894e9.m3u8
 [SD]延边卫视[ipv6],https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f071473c08738fc2.m3u8
 [SD]新疆卫视,https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 [BD]晋城公共,https://stream1.freetv.fun/8541f17cd6081bc041d504cd6edbc1803cb1162e1ce2207d4d4486a98b3769d2.m3u8
@@ -53,6 +53,7 @@
 [BD]-汕头生活,https://stream1.freetv.fun/33ddef0b15bf633541866eb53fbc19a1a0b29368b37cec411a766dbb2f5dbca1.m3u8
 [BD]汕头综合,https://stream1.freetv.fun/b6e72f9b5850337e3e4c69299c11d780f790e78e810f7a43bc6322ba01105a13.ctv
 [BD]江苏卫视,https://stream1.freetv.fun/d603dff9bd97cd0af111d22f7e7559d5811119df07427c3896440285361868da.m3u8
+[BD]江苏卫视_*r,https://stream1.freetv.fun/acc597d65a0d59dac1c9b34ab732f18308cddf9167d1724ed2228e9332461515.m3u8
 [BD]江西卫视[ipv6],https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8
 [HD]淮北经济生活,https://stream1.freetv.fun/3c6e99064cb6116c2dd03648f895a91b936609e0800bc9ae5c9c7b617338bff5.ctv
 [BD]河北卫视,https://stream1.freetv.fun/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.m3u8
@@ -94,6 +95,7 @@
 [BD]银川生活,https://stream1.freetv.fun/b848663804a2a5109b99f997df1175985ecc20abb8989e3f3e4104a9dd4e0ba5.m3u8
 [SD]长春综合,https://stream1.freetv.fun/c52544bde510c9708eff60c52662cc95a6aabcd7588173792ced3ff019ae1897.m3u8
 [SD]陕西卫视,https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
+[SD]陕西都市青春,https://stream1.freetv.fun/1b5c2948073df91c08fdc1b18bf158ca6c9cc35c9b7c77bd7bc0727c2c3bb6c4.m3u8
 [BD]青海卫视,https://stream1.freetv.fun/0e4579bf98e3869e73e674507f4257736227ec9c830d0fe0d2fc77008c50f220.ctv
 [HD]盐城城市公共,https://stream1.freetv.fun/d2e27cd1428bdf3af3cefdd45f4558b6a21aa4040d875ccf8c5d5c78e36642f6.m3u8
 [HD]盐城法制生活,https://stream1.freetv.fun/6bcd9c2342c87236ecb7159f98e4377a5b2b9e1ad3215982e71b34be08ede917.m3u8
