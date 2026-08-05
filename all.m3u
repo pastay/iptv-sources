@@ -1845,8 +1845,6 @@ https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bb
 https://stream1.freetv.fun/e4fcbe774413a4dcbd6e0f4cfd4c39b4f9a1989e27df620d654a015cfaf70c93.ctv
 #EXTINF:-1 tvg-name="民视台湾台" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151611469778_92.png" group-title="Generic",[BD]民视台湾
 https://stream1.freetv.fun/b286ff34dd322612e61a537c948a1267509a2fea4a5ebd338b3c9683333d8e9f.ctv
-#EXTINF:-1 tvg-name="民视台湾台" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126220034637848_50.jpg" group-title="Generic",[BD]民视台湾 *$
-https://stream1.freetv.fun/fdfbd5211382c063979eb04a05dfd58d8041b812a13a351f3556885e482d4b71.m3u8
 #EXTINF:-1 tvg-name="汕尾综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/18/20181018000557428409_85.jpg" group-title="Generic",[BD]汕尾综合高清
 https://stream1.freetv.fun/d29f0e32508e86e8984f07d065a8a2372d51962ac8234a83b750958a43ba7748.ctv
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007180745847184_87.jpg" group-title="Generic",[BD]汕头生活高清
@@ -1953,8 +1951,6 @@ rtmp://f13h.mine.nu/sat/tv721
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Generic",[BD]翡翠
 https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
-#EXTINF:-1 tvg-name="台视HD" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/29/20150929121750759037_14.jpg" group-title="News",[HD]台视
-https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
 #EXTINF:-1 tvg-name="台视新闻台" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="News",[BD]台视新闻
 https://stream1.freetv.fun/aa7638d0f1e6f45a2f0664b1f61b474e8dcc226fbb1ee91a6fafe6bdd8a64c28.m3u8
 #EXTINF:-1 tvg-name="台视综合" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226153847780456_55.png" group-title="Generic",[BD]台视综合
